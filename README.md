@@ -1,6 +1,6 @@
 # Crack detection using one-class SVM
 
-This demo shows how to detect the crack images using one-class SVM. In anomaly detection, normal images can be obtained a lot while the anomaly images are not frequenctly obtained; we cannot get sufficient number of training image of the anomaly data. In that case, a classifier was trained only with normal images and the anomaly images are detected when the pattern is different from the one it has learnt. 
+This demo shows how to detect the crack images using one-class SVM. In anomaly detection, normal images can be obtained a lot, while the anomaly images are not frequenctly obtained; we cannot get sufficient number of training image of the anomaly data. In that case, a classifier was trained only with normal images and the anomaly images are detected when the pattern is different from the one it has learnt. 
 
 ![image_0.png](README_images/image_0.png)
 
